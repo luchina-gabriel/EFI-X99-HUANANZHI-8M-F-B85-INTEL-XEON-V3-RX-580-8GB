@@ -1,8 +1,8 @@
-# Huananzhi 8M-F (H81 Chipset) + Intel Xeon E5-26XX v3 + RX 580 8Gb
+# Huananzhi (H81 Chipset) + Intel Xeon E5-26XX v3 + RX 580 8Gb
 
 **Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.7
+**Current OpenCore**: 0.8.7
 
 ## Complete hardware specs
 - Intel Xeon E5-26XX v3 (HEDT Haswell)
